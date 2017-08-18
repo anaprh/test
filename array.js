@@ -18,6 +18,6 @@ var incrementLastArrayElement = function(_array) {
     return newArray;
 };
 console.log(incrementLastArrayElement(sampleArray));
-#console.log(incrementLastArrayElement(sampleArray));
+##console.log(incrementLastArrayElement(sampleArray));
 
 
